@@ -1,0 +1,25 @@
+{
+  "name": "gokmen-astrobot",
+  "version": "1.0.0",
+  "description": "gokmen-astrobot test app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "country-list": "^2.1.1",
+    "country-reverse-geocoding": "^0.2.2",
+    "geolib": "^3.0.4",
+    "got": "^9.6.0",
+    "nearby-cities": "^1.1.0",
+    "nodemailer": "^6.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
