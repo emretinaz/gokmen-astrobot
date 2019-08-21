@@ -1,9 +1,9 @@
 # gokmen-astrobot
 
-#kurulum icin  /  for setup
+## kurulum icin  /  for setup
 
 npm i
 
-#baslatmak icin  / for start
+## baslatmak icin  / for start
 
 npm start
